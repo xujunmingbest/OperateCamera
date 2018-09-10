@@ -1,0 +1,57 @@
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Controls.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Imaging.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.dll
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.csprojResolveAssemblyReference.cache
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.Cache
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\OperateCamera.exe
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\OperateCamera.pdb
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Controls.dll
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.dll
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Imaging.dll
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Video.dll
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.exe
+D:\360安全浏览器下载\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.exe
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\OperateCamera.exe
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\OperateCamera.pdb
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Controls.dll
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.dll
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Imaging.dll
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Video.dll
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.Cache
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\OperateCamera.exe.config
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\bin\Debug\AForge.Video.FFMPEG.dll
+E:\扫描\摄像头拍照监控OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.csprojResolveAssemblyReference.cache
+D:\software\OperateCamera\OperateCamera\bin\Debug\OperateCamera.exe.config
+D:\software\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.exe
+D:\software\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+D:\software\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.csprojResolveAssemblyReference.cache
+D:\software\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.Cache
+D:\software\OperateCamera\OperateCamera\bin\Debug\OperateCamera.exe
+D:\software\OperateCamera\OperateCamera\bin\Debug\OperateCamera.pdb
+D:\software\OperateCamera\OperateCamera\bin\Debug\AForge.Controls.dll
+D:\software\OperateCamera\OperateCamera\bin\Debug\AForge.dll
+D:\software\OperateCamera\OperateCamera\bin\Debug\AForge.Imaging.dll
+D:\software\OperateCamera\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+D:\software\OperateCamera\OperateCamera\bin\Debug\AForge.Video.dll
+D:\software\OperateCamera\OperateCamera\bin\Debug\AForge.Video.FFMPEG.dll
+D:\software\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+D:\software\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
